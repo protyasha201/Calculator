@@ -1,0 +1,27 @@
+/* custom body css */
+
+body{
+    margin:0%;
+    padding: 0%;
+    font-family: monospace;
+}
+*{
+    box-sizing: border-box;
+}
+
+/* navbar section */
+.navbar{
+    background-image: linear-gradient(160deg, rgb(165, 165, 238), rgb(240, 146, 146));
+    height: 80px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.navbar h3{
+    font-size: 30px;
+    color: white;
+}
+
+/* main section */
+
