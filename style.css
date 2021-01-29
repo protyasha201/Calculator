@@ -59,6 +59,7 @@ input{
     border-radius: 10px;
     border-color: cyan;
     box-shadow: inset 2px 2px 5px black;
+    color: rgb(52, 177, 102);
 }
 
 button{
