@@ -4,6 +4,7 @@ body{
     margin:0%;
     padding: 0%;
     font-family: monospace;
+    background-color: rgb(204, 241, 192);
 }
 
 button{
@@ -50,6 +51,7 @@ button{
     margin: 100px auto;
     border-radius: 10px;
     box-shadow: 1px 1px 5px black;
+    background-image: linear-gradient(120deg, rgb(203, 236, 203), rgb(175, 142, 80));
 }
 
 input{
@@ -61,7 +63,7 @@ input{
 
 button{
     font-size: 40px;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 90px;
     color: white;
     border: black 1px solid;
@@ -72,6 +74,7 @@ button:hover{
     position: relative;
     bottom: 2px;
 }
+
 .footer{
     position: fixed;
     bottom: 0%;
